@@ -1,0 +1,30 @@
+{
+  "name": "speech-to-text-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malikasinger1/speech-to-text-example.git"
+  },
+  "keywords": [
+    "google",
+    "speech",
+    "api",
+    "demo",
+    "example"
+  ],
+  "author": "Inzamam Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malikasinger1/speech-to-text-example/issues"
+  },
+  "homepage": "https://github.com/malikasinger1/speech-to-text-example#readme",
+  "dependencies": {
+    "@google-cloud/speech": "^0.9.2"
+  }
+}
